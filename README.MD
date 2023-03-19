@@ -1,0 +1,2 @@
+# World inflation project
+
